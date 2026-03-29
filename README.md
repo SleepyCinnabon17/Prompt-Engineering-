@@ -1,4 +1,4 @@
-🤖🧠 Prompt Engineering Lab – GenAI & LLMs
+**🤖🧠 Prompt Engineering Lab – GenAI & LLMs**
 From Prompt Writing → Prompt Designing → Controlled Reasoning
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0A0F1C&height=140&section=header&text=PROMPT%20ENGINEERING%20LAB&fontSize=30&fontColor=00F5D4&animation=fadeIn" width="100%"/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2800&color=00F5D4&center=true&vCenter=true&width=750&lines=Zero-shot+%7C+Few-shot+%7C+Chain-of-Thought;Self-Consistency+%7C+RAG+%7C+Metacognition;Interrogating+AI+Instead+of+Trusting+It" /> </div>
 📚 About This Repository
@@ -16,13 +16,13 @@ Instead of treating LLMs like “smart tools,” this project treats them as:
 
 A 7-session structured experiment where a single belief is interrogated using progressively advanced prompting techniques.
 
-🧠 Belief Explored
+**🧠 Belief Explored**
 
 “All religions are misogynistic at their core…”
 
 Not exactly light dinner conversation, but sure, go big or go home.
 
-🔍 Mirror Sessions Breakdown
+**🔍 Mirror Sessions Breakdown**
 Session	Technique	What Happened
 1	Zero-shot	AI gave broad, diplomatic answer → missed specificity
 2	Role Prompting	Skeptic vs Defender → both converged to power structures
@@ -60,8 +60,8 @@ Majority voting helped, but:
 
 Consistency =/= correctness
 
-📚 RAG (Retrieval-Augmented Generation)
-Context grounding improved factual quality
+**📚 RAG (Retrieval-Augmented Generation)**
+_Context grounding improved factual quality_
 But:
 Garbage context = confident garbage output
 ⚠️ LLM Limitations (Explicitly Tested)
@@ -70,7 +70,7 @@ Garbage context = confident garbage output
 🧠 Context Loss → ignored mid-prompt information
 🤖 Model Comparison
 
-Multiple models evaluated across:
+**Multiple models evaluated across:**
 
 Accuracy
 Reasoning quality
@@ -78,20 +78,21 @@ Instruction following
 Conciseness
 Failure modes
 
-Conclusion:
+_**Conclusion:
 
-Different models fail differently. None are “reliable” without control.
-
-🛠 API Implementation
+Different models fail differently. None are “reliable” without control.**_
+_
+**🛠 API Implementation**
 
 Implemented using OpenAI API:
 
-Features:
+**Features:**
 Basic prompting
 Chain-of-thought via system messages
 Self-consistency (multi-run outputs)
 Temperature experiments (0.0 → 1.0)
-🔥 Key Observation:
+
+**🔥 Key Observation:**
 Temperature controls randomness, not intelligence
 Higher temperature → more diversity, not more correctness
 🤖 System Visualization
@@ -103,8 +104,8 @@ Output	Model guess
 Reasoning	Sometimes fake
 Confidence	Always high
 Truth	Your responsibility
-🧬 Core Takeaway
-
+**
+🧬 Core Takeaway**
 LLMs don’t think.
 They simulate thinking.
 
@@ -112,20 +113,13 @@ And if you’re not careful:
 
 They’ll simulate correctness too.
 
-🚀 Project Structure
-📁 mirror_journal/
-📁 prompting_experiments/
-📁 model_comparison/
-📁 api_implementation/
-📄 final_reflection.pdf
-🧠 Final Reflection (Condensed)
 The most powerful technique wasn’t CoT or RAG
 It was forcing the model into constraints it couldn’t escape
 
 Because:
 
-The moment you remove ambiguity, the illusion starts breaking.
-
+_**The moment you remove ambiguity, the illusion starts breaking.
+**_
 <div align="center"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/> <br>
 
 🧠 Control the prompt. Control the model.
