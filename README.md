@@ -27,8 +27,7 @@ This project explores how **LLMs behave under different prompting strategies**, 
 
 ### 🧠 Belief Explored
 > *“All religions are misogynistic at their core…”*
-
-Not exactly light dinner conversation. But fine, aim high.
+Something bold, something sensitive...something worth debating.
 
 ---
 
@@ -162,4 +161,3 @@ And if you’re careless:
 
 ---
 
-## 🚀 **Project Structure**
