@@ -1,4 +1,4 @@
-# 🤖🧠 **Prompt Engineering Lab – GenAI & LLMs**
+# 🤖🧠 **Prompt Engineering – GenAI & LLMs**
 
 ### *From Prompt Writing → Prompt Designing → Controlled Reasoning*
 
